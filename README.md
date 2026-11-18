@@ -64,8 +64,8 @@ python3 -m http.server 8080
 ```
 
 Then visit <http://localhost:8080>. On a computer you'll stay on the page.
-Open `http://localhost:8080/?stay` on a phone to see it there without the
-redirect.
+To try it on a phone on the same Wi-Fi, open your computer's local IP
+address instead, for example `http://192.168.1.20:8080/?stay`.
 
 ## Deploying
 
